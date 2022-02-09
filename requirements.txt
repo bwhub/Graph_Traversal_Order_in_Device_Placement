@@ -1,0 +1,8 @@
+matplotlib~=3.0.3
+networkx==2.4
+numpy==1.18.1
+scipy
+# The following package is used for memory analysis.
+guppy3
+pygraphviz
+tqdm
